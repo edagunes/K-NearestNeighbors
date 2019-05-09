@@ -8,5 +8,3 @@ But have to be entered 4 piece of x value to textbox.
 Basic voting system was used for voting. 
 There is no option for weighted voting yet. 
 Result is shown in status strip.
-
-Source code will be added soon.
